@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: darkblue;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+header b {
+    color: white;
+}
+h1 {
+    text-align: center;
+    color: orange;
+}
+footer {
+    background-color: white;
+}
+footer p {
+    background-color: rgb(32, 236, 32);
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    background-color: navy;
+    margin: 20px;
+    border-radius: 15px;
+    padding: 5px;
+}
+nav {
+    margin-top: 10px;
+}
+.icon {
+    color: navy;
+    background-color: white;
+    border: 1px solid navy;
+}
+.icons {
+  background-color:   rgb(41, 77, 41)
+}
+h2 {
+    color: blue;
+}
+.icond {
+    border: 1px solid blue;
+    border-radius: 15px;
+}
